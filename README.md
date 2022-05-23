@@ -3,14 +3,16 @@
 # 请 Ctrl+D 收藏本页到浏览器收藏夹
 
 ## 别闹（主用）
-bienao1.xyz
-bienao2.xyz
-bienao3.xyz
+
+[bienao1.xyz](http://bienao1.xyz)<br />
+[bienao2.xyz](http://bienao2.xyz)<br />
+[bienao3.xyz](http://bienao3.xyz)<br />
 
 ## 别闹发布页（点击出去后收藏）
-bienao.net
-https://joker-4.gitbook.io/bienao.com/
+
+[bienao.net](http://bienao.net)<br />
+[github.com/bienaocom/1](https://github.com/bienaocom/1)
 
 ## 别闹永久官网
-bienao.com
 
+[bienao.com](http://bienao.com)
