@@ -14,4 +14,4 @@
 ## 别闹永久官网
 
 官网：[bienao.com](http://bienao.com)<br />
-邮箱：www@bienao.net（发送任意文字，自动回复网址）
+邮箱：wwwatgcc@gmail.com（发送任意文字，自动回复网址）
