@@ -12,4 +12,4 @@
 发布页①：[bienao123.xyz](http://bienao123.xyz)（点击后收藏）<br />
 发布页③：[github.com/bienaocom/1](https://github.com/bienaocom/1)（点击后收藏）
 
-或者发送任意文字到邮箱，自动回复网址：wwwatgcc@gmail.com
+或者发送任意文字到邮箱，自动回复网址：imer@live.cn
